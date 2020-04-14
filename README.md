@@ -15,3 +15,5 @@ As part of this course I have learnt about the following things and checked in c
 8. Setting up libraries for testing(Mocha),Assertiopn Libraries(chai) and DOM testing using JSDom.
 9. Setting up Continuous Integration using TraviCI.
 10. Centralising HTTP requests using Fetch and polyfilling. Creating a mock API and generating mock data using json-schema-faker and use json-server to serv and manipulate Mock data.
+11. Creating Production Build using Bundle Splitting and Cache Busting and finally setting up TrackJS for Error Logging
+12. Cloud Hosting your API using Heroku and hosting your UI using surge
