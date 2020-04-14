@@ -22,7 +22,7 @@ As part of this course I have learnt about the following things and checked in c
 ## Get Started
 
 1. **Install [Node 6 or newer](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)
-2. **Clone this repository.** - `https://github.com/chaitanya-suvarna/pluralsight-js-dev-env.git` or [download the zip](https://github.com/chaitanya-suvarna/pluralsight-js-dev-env/archive/master.zip)
+2. **Clone this repository.** - `git clone https://github.com/chaitanya-suvarna/pluralsight-js-dev-env.git` or [download the zip](https://github.com/chaitanya-suvarna/pluralsight-js-dev-env/archive/master.zip)
 3. **Make sure you're in the directory you just created.** - `cd pluralsight-js-dev-env`
 4. **Install Node Packages.** - `npm install`
 5. **Run the app.** - `npm start -s`
