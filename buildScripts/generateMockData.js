@@ -5,7 +5,6 @@
  */
 
 /* eslint-disable no-console */
-/* eslint-disable import/no-unresolved */
 
 import jsf from 'json-schema-faker';
 import {schema} from './mockDataSchema';
